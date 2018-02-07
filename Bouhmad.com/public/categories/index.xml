@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test</title>
+    <link>http://hugo.spf13.com/categories/</link>
+    <description>Recent content on test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hugo.spf13.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HIDS Monitoring Made Easy</title>
+      <link>http://hugo.spf13.com/blog/hids-monitoring-made-easy/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo.spf13.com/blog/hids-monitoring-made-easy/</guid>
+      <description>Author&amp;rsquo;s Note This Blog, let alone this blog post, has been something I&amp;rsquo;ve been meaning to get off the ground for quite some time. Because of this, I will attempt to curb my extreme enthusiasm as I attempt to write a meaningful post on one of my favorite technologies, HIDS.
+I hope you all enjoy the blog, and please, if you have questions or want me to talk/elaborate on a specific technology please email me at adbouhmad@gmail.</description>
+    </item>
+    
+  </channel>
+</rss>
