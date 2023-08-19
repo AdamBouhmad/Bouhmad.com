@@ -1,6 +1,6 @@
 baseurl = "http://hugo.spf13.com/"
 languageCode = "en-us"
-title = "test"
+title = ""
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -11,7 +11,7 @@ googleAnalytics = ""
     # Sets the meta tag description, usually reserved for the main page
     description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Future Imperfect"
+    navbarTitle          = ""
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
@@ -43,9 +43,9 @@ googleAnalytics = ""
 [params.intro]
     header    = "Adam Bouhmad"
 
-    paragraph = "Maker | Infosec | Photography. Previously @DHFBaltimore. Currently Security Engineer. Aspire to help others throughout my journey. irc: whiteveil </i>"
+    paragraph = "Maker | Infosec | Photography. Previously @DHFBaltimore. Currently a Security Engineer. Aspire to help others throughout my journey. irc: whiteveil </i>"
 
-    about     = "?"
+    about     = ""
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
